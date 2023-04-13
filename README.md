@@ -1,5 +1,5 @@
 # pac-man
-基于GO实现的终端emoji吃豆人游戏
+基于GO实现的终端吃豆人游戏(with emojis!)
 
 
 ![screenhot01](https://user-images.githubusercontent.com/124338898/231733938-4ad17357-7866-482d-8dde-6996226f6c1e.jpg)  
