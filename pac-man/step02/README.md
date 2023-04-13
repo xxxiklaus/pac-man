@@ -163,4 +163,4 @@ func printScreen() {
 
 遇到这种情况，要么关闭终端并重新打开它，要么再次运行游戏并使用“ESC”键正常退出.
 
-[Take me to step 03!](pac-man/step03/README.md)
+[Take me to step 03!](../step03/README.md)
