@@ -54,7 +54,7 @@ func loadMaze(file string) error {
 ```
 
 `loadMaze` 代码的另一个有趣方面是使用 `defer` 关键字. 即前面有defer最后运行.
- 它对于清理目的非常有,在这种情况下,我们使用它来关闭我们刚刚打开的文件：
+ 它对于清理目的非常有效,在这种情况下,我们使用它来关闭我们刚刚打开的文件：
 
 ```go
 func loadMaze(file) error {
