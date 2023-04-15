@@ -218,4 +218,4 @@ for {
 }
 ```
 
-[Take me to step 04!](pac-man/step04/README.md)
+[Take me to step 04!](../step04/README.md)
