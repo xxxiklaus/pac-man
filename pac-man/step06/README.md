@@ -4,7 +4,7 @@ you will learn how to:
 
 - 使用协程
 - 使用匿名函数（lambdas）
-- 使用频道
+- 使用通道
 - 使用 select 语句异步读取通道
 - 使用时间包
 
